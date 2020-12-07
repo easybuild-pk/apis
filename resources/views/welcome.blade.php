@@ -80,9 +80,11 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-                    Laravel
-                </div>
+                <div class="title m-b-md"></div>
+                <img src="/assets/images/logo/logo.PNG" alt="easybuild">
+                <h6 style="margin-top: 0 !important;">Making you home construction easy for you</h6>
+                <h2 style="padding-bottom: 100px">Coming soon...</h2>
+                <div class="pb-3"></div>
 
                 {{--<div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
